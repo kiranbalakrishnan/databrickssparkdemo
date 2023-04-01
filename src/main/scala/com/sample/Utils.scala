@@ -1,3 +1,5 @@
+// Databricks notebook source
+
 package com.sample
 
 import org.apache.spark.sql.SparkSession
